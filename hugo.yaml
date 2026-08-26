@@ -1,0 +1,57 @@
+baseURL: "https://a-mansilla.github.io/"
+languageCode: "en-us"
+title: "Alberto Mansilla - Vulnerability Research"
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+
+params:
+  env: production
+
+  author: "Alberto Mansilla"
+
+  description: >
+    Vulnerability research, reverse engineering, exploit development
+    and Windows internals.
+
+  keywords:
+    - vulnerability research
+    - exploit development
+    - reverse engineering
+    - Windows internals
+    - Windows kernel
+    - binary exploitation
+
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowWordCount: true
+
+  showtoc: true
+  tocopen: false
+
+  homeInfoParams:
+    Title: "Alberto Mansilla"
+    Content: >
+      Vulnerability Research · Exploit Development · Reverse Engineering ·
+      Windows Internals
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/a-mansilla"
+
+menu:
+  main:
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 10
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
