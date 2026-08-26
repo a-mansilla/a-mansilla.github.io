@@ -1,6 +1,5 @@
 ---
 title: "Setting Up My Vulnerability Research Lab"
-date: 2026-08-12
 draft: false
 tags:
   - Windows
