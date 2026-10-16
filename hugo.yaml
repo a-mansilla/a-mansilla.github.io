@@ -41,6 +41,9 @@ params:
       Windows Internals
 
   socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/alberto-mansilla/"
+
     - name: github
       url: "https://github.com/a-mansilla"
 
